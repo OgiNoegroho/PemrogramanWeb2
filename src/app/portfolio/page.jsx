@@ -58,7 +58,7 @@ const Portfolio = () => {
 
       <div className="recentproject" style={{ marginTop: '2rem', textAlign: 'center', display: 'flex', flexWrap: 'wrap' }}>
         <div className="project-details" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', margin: '0 1rem' }}>
-          <img src="img/mazesolverproject3.png" alt="Maze Solver Project" style={{ display: 'inline-block', width: '23.2rem', borderRadius: '10px', boxShadow: '0 0 20px rgba(0, 0, 0, 0.1)', marginBottom: '1rem' }} />
+          <img src="/mazesolverproject3.png" alt="Maze Solver Project" style={{ display: 'inline-block', width: '23.2rem', borderRadius: '10px', boxShadow: '0 0 20px rgba(0, 0, 0, 0.1)', marginBottom: '1rem' }} />
           <p style={{ marginBottom: '1rem', fontSize: '1.2rem', color: '#777' }}>Simple Maze Solver</p>
         </div>
       </div>
