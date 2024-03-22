@@ -1,35 +1,7 @@
 import React from 'react';
 
 const Gallery = () => {
-  // const styles = `
-  //   .gallery {
-  //     display: flex;
-  //     flex-direction: column;
-  //     padding: 5em;
-  //     min-height: 100vh;
-  //     align-items: center;
-  //   }
-
-  //   .gallery h2 {
-  //     padding: 1rem 1%;
-  //     text-align: center;
-  //     color: var(--primary);
-  //   }
-
-  //   .image-container {
-  //     display: inline-block;
-  //     text-align: center;
-  //     margin: 1% 1%;
-  //   }
-
-  //   #img-gal {
-  //     height: 22.5rem;
-  //     width: 12.2rem;
-  //     border: 0.1rem solid #fff;
-  //     border-radius: 1%;
-  //   }
-  // `;
-
+  
   return (
     <div className="gallery" style={{ display: 'flex', flexDirection: 'column', padding: '5em', minHeight: '100vh', alignItems: 'center' }}>
       <h2 style={{ padding: '1rem 1%', textAlign: 'center', color: 'var(--primary)' }}>G A L L E R Y</h2>
