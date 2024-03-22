@@ -1,55 +1,55 @@
 import React from 'react';
 
 const Portfolio = () => {
-  const styles = `
-    .porto {
-      min-height: 100vh;
-      padding: 5em;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
+  // const styles = `
+  //   .porto {
+  //     min-height: 100vh;
+  //     padding: 5em;
+  //     display: flex;
+  //     flex-direction: column;
+  //     align-items: center;
+  //   }
 
-    .porto h1 {
-      padding: 1rem 0 1.4rem 0;
-      text-align: center;
-      font-size: 2.5rem;
-      color: #333; 
-    }
+  //   .porto h1 {
+  //     padding: 1rem 0 1.4rem 0;
+  //     text-align: center;
+  //     font-size: 2.5rem;
+  //     color: #333; 
+  //   }
 
-    .porto .recentproject {
-      margin-top: 2rem;
-      text-align: center;
-      display: flex;
-      flex-wrap: wrap;
-    }
+  //   .porto .recentproject {
+  //     margin-top: 2rem;
+  //     text-align: center;
+  //     display: flex;
+  //     flex-wrap: wrap;
+  //   }
 
-    .porto h2 {
-      font-size: 1.8rem;
-      color: #555; 
-    }
+  //   .porto h2 {
+  //     font-size: 1.8rem;
+  //     color: #555; 
+  //   }
 
-    .porto .project-details {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin: 0 1rem; 
-    }
+  //   .porto .project-details {
+  //     display: flex;
+  //     flex-direction: column;
+  //     align-items: center;
+  //     margin: 0 1rem; 
+  //   }
 
-    .porto .project-details img {
-      display: inline-block; 
-      width: 23.2rem;
-      border-radius: 10px; 
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
-      margin-bottom: 1rem; 
-    }
+  //   .porto .project-details img {
+  //     display: inline-block; 
+  //     width: 23.2rem;
+  //     border-radius: 10px; 
+  //     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
+  //     margin-bottom: 1rem; 
+  //   }
 
-    .porto .project-details p {
-      margin-bottom: 1rem;
-      font-size: 1.2rem;
-      color: #777;
-    }
-  `;
+  //   .porto .project-details p {
+  //     margin-bottom: 1rem;
+  //     font-size: 1.2rem;
+  //     color: #777;
+  //   }
+  // `;
 
   return (
     <div className="porto" style={{ minHeight: '100vh', padding: '5em', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>

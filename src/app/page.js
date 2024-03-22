@@ -1,27 +1,27 @@
 import React from 'react';
 
 const Home = () => {
-  const styles = `
-    .home {
-      display: flex;
-      min-height: 100vh;
-      align-items: center;
-    }
+  // const styles = `
+  //   .home {
+  //     display: flex;
+  //     min-height: 100vh;
+  //     align-items: center;
+  //   }
 
-    .home .home-content {
-      margin: auto;
-      padding: 1.4rem 7%;
-      text-align: center;
-    }
+  //   .home .home-content {
+  //     margin: auto;
+  //     padding: 1.4rem 7%;
+  //     text-align: center;
+  //   }
 
-    .home .home-content h2 {
-      padding: 1.4rem 7%;
-    }
+  //   .home .home-content h2 {
+  //     padding: 1.4rem 7%;
+  //   }
 
-    .home .home-content h2 span {
-      color: var(--primary);
-    }
-  `;
+  //   .home .home-content h2 span {
+  //     color: var(--primary);
+  //   }
+  // `;
 
   return (
     <div className="home" style={{ display: 'flex', minHeight: '100vh', alignItems: 'center' }}>
