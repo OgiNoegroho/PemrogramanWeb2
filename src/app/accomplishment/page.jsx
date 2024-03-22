@@ -13,7 +13,7 @@ const Accomplishment = () => {
           <p style={{ marginTop: '1rem', marginBottom: '1rem', fontSize: '1.2rem', color: '#777' }}>juara 2 porseni TIF</p>
         </div>
         
-        {/* Add more accomplishments as needed */}
+        {}
       </div>
     </div>
   );

@@ -67,7 +67,7 @@ const Gallery = () => {
           <p>Image 10 Description</p>
         </div>
        
-        {/* Repeat the above div structure for other images */}
+        {}
       </div>
     </div>
   );
