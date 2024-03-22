@@ -1,5 +1,3 @@
-// Accomplishment.jsx
-
 import React from 'react';
 
 const Accomplishment = () => {
